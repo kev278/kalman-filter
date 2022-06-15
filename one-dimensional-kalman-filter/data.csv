@@ -1,0 +1,10 @@
+measurement_var, motion_var
+4, 2
+mean, var
+0, 10000
+measurements, motions
+5, 1
+6, 1
+7, 2
+9, 1
+10, 1
